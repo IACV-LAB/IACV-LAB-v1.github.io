@@ -1,5 +1,5 @@
 {
-  "name": "uilab-github.github.io",
+  "name": "IACV-LAB.github.io",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "core-js": "^2.6.5",
-    "uilab-logo.js": "git+https://github.com/uilab-github/uilab-logo.js.git#^1.2.0",
+    "uilab-logo.js": "git+https://github.com/IACV-LAB/uilab-logo.js.git#^1.2.0",
     "vue": "^2.6.10",
     "vue-loading-overlay": "^3.2.0",
     "vue-markdown": "^2.2.4",
