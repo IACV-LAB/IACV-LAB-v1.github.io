@@ -1,5 +1,5 @@
-const DOC_ID = '1v2JBn1EHa20kcwz5rtszoNmjx9Znqzk-dGMhKw1m3vE'
-const API_KEY = 'AIzaSyBoX_m8IQZO2Fq__4XgkIRADhVXTJwtsbs'
+const DOC_ID = '1j2mNAsbnqMz3R1hI2dSLrnjWVlFSUc9DcIcAoJygrrI'
+const API_KEY = 'AIzaSyAv0y_ksEsnew7fKtg9AyMKnReZ9rjPdfM'
 
 import sheets from '@/helpers/sheets'
 sheets.setKey(API_KEY)
